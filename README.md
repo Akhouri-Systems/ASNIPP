@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="ASNIPP - The Windows Snipping Tool Killer" width="100%">
+<img src="banner.svg" alt="ASNIPP - The Windows Snipping Tool Killer" width="100%">
 
 <br><br>
 
-<a href="https://github.com/Akhouri-Systems/ASNIPP/releases/download/v1.0.0/ASNIPP_v1.zip"><img src="assets/download.svg" alt="Download ASNIPP for Windows" width="420"></a>
+<a href="https://github.com/Akhouri-Systems/ASNIPP/releases/download/v1.0.0/ASNIPP_v1.zip"><img src="download.svg" alt="Download ASNIPP for Windows" width="420"></a>
 
 <sub>Direct download &nbsp;·&nbsp; no installer &nbsp;·&nbsp; extract the zip and run <code>ASNIPP_v1.exe</code></sub>
 
