@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="120" viewBox="0 0 560 120" role="img" aria-label="Download ASNIPP for Windows">
+  <defs>
+    <linearGradient id="btn" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3da0ff"/>
+      <stop offset="1" stop-color="#0a64e0"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="sh" x="-20%" y="-30%" width="140%" height="190%">
+      <feDropShadow dx="0" dy="8" stdDeviation="9" flood-color="#0a84ff" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+  <g filter="url(#sh)">
+    <rect x="12" y="8" width="536" height="92" rx="46" fill="url(#btn)"/>
+    <rect x="12" y="8" width="536" height="92" rx="46" fill="url(#shine)"/>
+    <rect x="12.5" y="8.5" width="535" height="91" rx="45.5" fill="none" stroke="#ffffff" stroke-opacity="0.35"/>
+  </g>
+  <!-- download arrow in circle -->
+  <circle cx="72" cy="54" r="30" fill="#ffffff" fill-opacity="0.2"/>
+  <path d="M72 38 V64 M60 54 L72 66 L84 54" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M58 74 H86" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+  <text x="124" y="50" font-family="'Segoe UI Variable Display','Segoe UI',-apple-system,Arial,sans-serif" font-size="34" font-weight="800" fill="#ffffff">Download for Windows</text>
+  <text x="125" y="78" font-family="'Segoe UI',Arial,sans-serif" font-size="17" font-weight="500" fill="#ffffff" fill-opacity="0.85">ASNIPP_v1.zip  ·  v1.0.0  ·  Windows 10 / 11</text>
+</svg>
